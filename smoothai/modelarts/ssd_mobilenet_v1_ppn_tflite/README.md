@@ -1,4 +1,4 @@
-适用于华为云ModelArts服务AI市场算法[SSD_MobileNet_v1_PPN（物体检测/TensorFlow）](https://marketplace.huaweicloud.com/markets/aihub/modelhub/detail/?id=17c9de47-20cf-4f0f-96c5-5cba6aa32823)转换成tflite模型并成功推理，本案例使用TensorFlow-1.15版本
+适用于华为云ModelArts服务AI市场算法[SSD_MobileNet_v1_PPN（物体检测/TensorFlow）](https://marketplace.huaweicloud.com/markets/aihub/modelhub/detail/?id=17c9de47-20cf-4f0f-96c5-5cba6aa32823)，本地转换成tflite模型并使用该模型进行推理，本案例使用TensorFlow-1.15版本
 
 训练完成后得到以下文件：
 ```shell
